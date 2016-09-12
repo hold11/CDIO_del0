@@ -1,9 +1,19 @@
-# CDIO_del0
+# Projektnavn her
 
-Forklaring til projektet her.
+TODO: Skriv en ikke forklaring til hvad projektet gør.
 
-[link](https://google.com)
+## Teamlead
 
-Det her er en test.
+For dette projekt er <navn> teamlead. Dvs at <navn> er den eneste der accepterer / afslår pull-requests.
 
-# Login
+## Installation
+
+TODO: Hvis programmet kræver installation, så kan man her skrive hvordan man gør.
+
+## Brug
+
+TODO: Skriv hvordan man bruger / kører programmet her.
+
+## License
+
+GNU General Public License v3.0
